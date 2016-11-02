@@ -2,7 +2,7 @@
 
 ## Hello World kernel implement:
 
-![img](https://github.com/hectorriesco/kernel/tree/master/eudyptula/task_01/img/process.png)
+![Alt text](img/process.png)
 
 ## The commands that i use are:
 
